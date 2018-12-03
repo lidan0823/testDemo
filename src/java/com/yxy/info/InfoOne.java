@@ -16,6 +16,9 @@ import java.util.Map;
 public class InfoOne {
     private String userName;
 
+
+
+
     public String getUserName() {
         return userName;
     }
